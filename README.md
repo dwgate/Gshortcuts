@@ -15,5 +15,5 @@ Gshortcuts is not yet on the Google Play store, so if you're interested in using
 chrome://extensions/
 ```
 + Make sure you have Developer mode selected and then + select 'Load unpacked extension...'
-+ Select the directory that you cloned the repository.
++ Select the directory where you cloned the repository to.
 + Thats it! 
