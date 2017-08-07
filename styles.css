@@ -1,0 +1,53 @@
+html {
+  background-color: #e0e0eb;
+  height: 45px;
+}
+
+th {
+  border-radius: 4px solid black;
+  height: 25px;
+  width: 25px;
+  font-size: 10px;
+}
+
+th:hover {
+  cursor: pointer;
+}
+
+table {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+img:hover {
+  border-radius: 3px;
+  background-color: grey;
+}
+
+#mail {
+  color: #4885ed;
+}
+
+#drive {
+  color: #3cba54;
+}
+
+#search {
+  color: #db3236;
+}
+
+img {
+  padding: 5px;
+  height: 25px;
+  width: 25px;
+}
+
+
+/*
+Google colors:
+green: Hex: #3cba54;
+yellow: Hex: #f4c20d;
+red: Hex: #db3236;
+blue: Hex: #4885ed;
+*/
