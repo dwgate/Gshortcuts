@@ -9,12 +9,11 @@ I plan to expand this to include an options page where a user can either select 
 ## How To
 Gshortcuts is not yet on the Google Play store, so if you're interested in using Gshortcuts in the meantime...
 
-Clone this repo to your local machine.
-Visit your chrome extension page
++ Clone this repo to your local machine.
++ Visit your chrome extension page
 ```
 chrome://extensions/
 ```
-Make sure you have Developer mode selected and then select
-'Load unpacked extension...'
-Select the directory that you cloned the repository.
-Thats it! 
++ Make sure you have Developer mode selected and then + select 'Load unpacked extension...'
++ Select the directory that you cloned the repository.
++ Thats it! 
